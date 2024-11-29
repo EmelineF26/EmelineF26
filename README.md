@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Bonjour, moi c'est Hémeline Farget
 
-<!--
-**EmelineF26/EmelineF26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 Développeuse Web fullstack Junior
 
-Here are some ideas to get you started:
+- 🎓 Diplômée en Développeur Intégrateur Web niveau Bac+2 chez OpenClassrooms
+- 🔎 À la recherche d'une alternance en Développement Web Bac +3/4
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌍 À propos de moi
+- 👩‍💻 Passionnée par le code et plus globalement la création d'expériences web dynamiques et accessibles
+- 📍 Basée à Lyon, France
+- 🎶 Je suis également Community Manager pour la communauté **ColdplayFrance** sur les réseaux sociaux
+
+---
+
+### 💼 Compétences techniques
+- **Frontend :** HTML5, CSS3, JavaScript, React
+- **Backend :** Node.js
+- **Outils :** Git/GitHub, VSCode
+
+---
+
+### 📫 Contactez-moi
+- 📧 [Mon email](mailto:emeline.farget@outlook.fr)
+- 🌐 [Mon portfolio](https://emelineF26.github.io/Portfolio)
+- 🖇️ [LinkedIn](https://www.linkedin.com/in/hemeline-farget)
