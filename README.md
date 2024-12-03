@@ -2,7 +2,7 @@
 
 ### 🌟 Développeuse Web fullstack Junior
 
-- 🎓 Diplômée en Développeur Intégrateur Web niveau Bac+2 chez OpenClassrooms
+- 🎓 Diplômée en Développeur Intégrateur Web niveau Bac+2
 - 🔎 À la recherche d'une alternance en Développement Web Bac +3/4
 
 ---
