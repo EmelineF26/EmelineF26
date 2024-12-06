@@ -8,9 +8,9 @@
 ---
 
 ### 🌍 À propos de moi
-- 👩‍💻 Passionnée par le code et plus globalement la création d'expériences web dynamiques et accessibles
+- 👩‍💻 Passionnée par le code et plus globalement par la création d'expériences web dynamiques et accessibles
 - 📍 Basée à Lyon, France
-- 🎶 Je suis également Community Manager pour la communauté **ColdplayFrance** sur les réseaux sociaux
+- 🎶 Je suis également **Community Manager** pour la communauté **ColdplayFrance** sur les réseaux sociaux
 
 ---
 
