@@ -16,7 +16,7 @@
 
 ### 💼 Compétences techniques
 - **Frontend :** HTML5, CSS3, JavaScript, React
-- **Backend :** Node.js
+- **Backend :** Node.js et notions en Symfony
 - **Outils :** Git/GitHub, VSCode
 
 ---
